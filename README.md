@@ -215,9 +215,4 @@ A utility function located in `tmdbHelper.js` that handles requests to the TMDb 
 
 The API is documented with Swagger, providing a user-friendly interface for exploring available routes and their expected inputs/outputs. Swagger documentation is auto-generated based on route definitions.
 
----
 
-
----
-
-Let me know if you need further enhancements or modifications!
